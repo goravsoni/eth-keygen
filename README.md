@@ -1,4 +1,4 @@
 # eth-keygen
-generates eth private keys 
+generates random eth private keys 
 
 ![default view](img/snap.JPG)
