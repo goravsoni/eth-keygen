@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethereumjs-wallet": "^1.0.2"
+    "browserify-shim": "^3.8.14",
+    "ethereumjs-wallet": "^1.0.2",
+    "save": "^2.4.0"
   }
 }
